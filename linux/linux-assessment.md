@@ -646,7 +646,7 @@ if [[ $FILE == $GLOB ]] ;then
 
 - [ ] Genetare RSA or DSA key pairs using ssh-keygen.
 - [ ] Change the remote user's password.
-- [ ] Create a local SSL certificate.
+- [x] Create a local SSL certificate.
 - [ ] Change the remote SSH configure to allow it.
 
 ### Q79. When installing a downloaded package on the RedHat-based distribution manual using RPM, what may you have to do first?
